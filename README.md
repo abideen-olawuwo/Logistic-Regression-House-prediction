@@ -7,7 +7,7 @@ house have been sold.
 
 *  Data
 
-The dataset was downloaded from Kaggle[https://www.kaggle.com/datasets/camnugent/california-housing-prices?select=housing.csv]
+The dataset was downloaded from Kaggle(https://www.kaggle.com/datasets/camnugent/california-housing-prices?select=housing.csv)
 
 
 
