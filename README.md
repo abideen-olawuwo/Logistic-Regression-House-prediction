@@ -11,5 +11,6 @@ The dataset was downloaded from Kaggle (https://www.kaggle.com/datasets/camnugen
 
 
 
-
+* Feature 
+Kaggle provides a data dictionary detailing all of the features of the dataset.
 A Linear Regression model for helping users to predict House prices.
