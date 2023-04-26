@@ -12,5 +12,7 @@ The dataset was downloaded from Kaggle (https://www.kaggle.com/datasets/camnugen
 
 
 * Feature 
-Kaggle provides a data dictionary detailing all of the features of the dataset.
+Kaggle provides a the follow feature which include; longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity
+
+
 A Linear Regression model for helping users to predict House prices.
